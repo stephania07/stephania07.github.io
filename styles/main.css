@@ -1,0 +1,76 @@
+/*colors
+/*Light pink: #FFD9FF*/
+/*Dark Green  : #32673f*/
+
+/*Global*/
+nav a, #logo {
+text-decoration: none;
+}
+img {
+max-width: 100%;
+}
+
+nav a.selected, nav a:hover {
+color: #32673f;
+}
+
+/*Header*/
+header {
+float: left;
+margin: 0 0 10px 0;
+padding: 5px 0 0 0 ;
+width: 100%;
+background-color: #FFD9FF;
+}
+#logo {
+
+}
+
+h1 {
+line-height: 2em;
+margin: 0;
+
+}
+
+h2 {
+font-size: 1em;
+margin: -5px 0 0 0;
+
+}
+/*NAVIGATION*/
+
+nav ul {
+list-style: none;
+margin: 0;
+background-color: #FFD9FF;
+float: right;
+}
+
+nav li {
+display: inline-block;
+}
+
+nav a {
+background-color: #FCC5F5;
+border-radius: 1em;
+padding: 0 2em;
+}
+
+
+/*Section*/
+section img {
+display: block;
+height: 200px;
+width: 200px;
+border-radius: 100%;
+}
+
+p {
+background-color: #FFD9FF;
+}
+/*Footer*/
+.social-icon {
+height: 20px;
+width: 20px;
+margin: 0 5px;
+}
