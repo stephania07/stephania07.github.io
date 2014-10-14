@@ -1,10 +1,10 @@
 stephania.github.io
 ===================
-##Basic Site Map
-*About / Bio
-*Blog
-*Resume
-*Project portofolio
+##Basic site Map
+About / Bio
+Blog
+Resume
+Project portofolio
 
 ### About/Bio contents
 *A picture of me
@@ -23,4 +23,4 @@ stephania.github.io
 
 ### Project portofolio
 *A list of projects
-*When I Click on a project, I see more details
+*when I Click on a project, I see more details
