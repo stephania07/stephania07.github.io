@@ -1,7 +1,7 @@
 ---
 title: About
 layout: default
-permalink: /about/
+permalink: /
 ---
 
 ![alt text](/downloads/image/myPic.jpg "myPic")
