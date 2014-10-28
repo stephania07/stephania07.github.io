@@ -4,7 +4,7 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-**_Some of the porjects I have worked so far are ordered chronoligically here below_:**
+**_Some of the projects I have worked, are ordered chronoligically here below_:**
 
 * [**This site!**](https://github.com/stephania07/stephania07.github.io)
 
