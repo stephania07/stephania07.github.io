@@ -5,24 +5,71 @@ img {
 }
 
 .wrapper {
-	background-color: #FFF4FA
+	background-color: #FFBFFF;
 
 }
 
 .site-nav .page-link {
-background-color: #EFEEFD;
-border-radius: 1.5em;
-font-weight: bold;
-padding: 0.2em 2em;
+ background-color: #FFF;
+ border-radius: 1.5em;
+ font-weight: bold;
+ padding: 0.1em;
 
 }
 
-.site-nav .page-link:hover {
+.site-nav a.page-link:hover {
 color: #004080;
-}
 
+}
 
 .post-content {
-font-family: cubic;
+ font-family: 'Raleway', sans-serif;
 }
 
+//resume page
+#resume {
+font-family: 'Raleway', sans-serif;
+}
+#resume {
+				section {
+        clear: both;
+    }
+    h1 {
+      border-bottom: 1px solid black;
+    }
+    section#preamble a {
+        display: block;
+        float: right;
+        clear: right;
+    }
+    section#jobs {
+        // & > ul will translate to section#jobs > ul
+        h2, & > ul {
+            display: inline-block;
+            float: left;
+        }
+        h2 {
+            width: 20%;
+            line-height: 1;
+        }
+        & > ul {
+            width: 80%;
+            margin: 0;
+            list-style-type: none;
+        }
+        h3 {
+            display: inline-block;
+            margin: 0;
+        }
+        .dates {
+           float: right;
+        }
+        .employer:before {
+            content: '';
+            display: block;
+        }
+        .employer:after {
+            content: ', ';
+        }
+    }
+}

@@ -1,22 +1,31 @@
 img {
-    height: 200px;
-    width: 200px;
+    height: 150px;
+    width: 150px;
     border-radius: 100%;
+		position: center;
 }
 
 .wrapper {
-    background-color: #FFF4FA
+   // background-color: #FFECFF;
 
+}
+.site-header {
+  background-color: #F7A4C6;
+} 
+.page-content , .site-footer {
+  background-color: #FDF8F8;
 }
 
 .site-nav .page-link {
- background-color: #EFEEFD;
- border-radius: 1.5em;
+ background-color: #FBFBFC;
+ border-radius: 0.5em;
  font-weight: bold;
- padding: 0.1em;
+ padding: 0.2em;
 
 }
-
+h3 {
+text-align: center;
+}
 .site-nav a.page-link:hover {
 color: #004080;
 
