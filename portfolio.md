@@ -7,7 +7,7 @@ permalink: /portfolio/
 **_Some of the projects I have worked, are ordered chronoligically here below_:**
 
 * [**Weather Forecast!**](https://github.com/stephania07/Weather-Forecast)
-This's a sole project and it results a weather report for the coming five days.
+This's a solo project which gives a weather report for the coming five days.
 ![weatherforecast](/downloads/image/weatherforecast.png "Weather Forecast")
 
 
