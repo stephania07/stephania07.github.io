@@ -4,9 +4,15 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-**_Some of the projects I have worked, are ordered chronoligically here below_:**
+**_Some of the projects I have worked so far.._**
 
-* [**Weather Forecast!**](https://github.com/stephania07/Weather-Forecast)
+
+* [**Language Learning App**](https://languagelearningapp.firebaseapp.com)
+
+This's an app that helps kids,aged 4-6, to learn their native language that is Tigrigna. It is built using the AngularJs technology.
+
+
+* [**Weather Forecast**](https://github.com/stephania07/Weather-Forecast)
 This's a solo project which gives a weather report for the coming five days.
 ![weatherforecast](/downloads/image/weatherforecast.png "Weather Forecast")
 
