@@ -4,8 +4,7 @@ layout: default
 permalink: /
 ---
 
-![alt text](/downloads/image/StephanioIyobBW.jpg "myPic")
+![alt text](/downloads/image/StephanioIyobBW.jpg "StephanioIyobBW")
 
 I am an apprentice at Nashville Software School  and equipped in web developing languages which I acquired them with in the last six months course. Other than that I love and enjoy the unfathomable beauty of nature.
-
 
