@@ -1,6 +1,5 @@
 # Site settings
 title: Stephania Iyob
-highlighter: rouge
 encoding: ASCII-8BIT
 email: stephaniaiyob@yahoo.com
 description: When you want something all the universe conspires in helping you to achieve it. Paulo Coelho  
@@ -11,3 +10,4 @@ github_username:  stephania07
 
 # Build settings
 markdown: kramdown
+
