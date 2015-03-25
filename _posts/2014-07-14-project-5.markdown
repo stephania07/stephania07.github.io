@@ -1,15 +1,16 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: JavaScript-koans
+subtitle: Intro to JavaScript
 layout: default
 modal-id: 5
-date: 2014-07-14
+date: 2014-10-18
 img: startup-framework.png
 thumbnail: startup-framework-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: Oct 2014
+client: JavaScript
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: JavaScript Koans is an interactive learning environment that uses failing tests to introduce students to aspects of JavaScript in a logical sequence.
+github: https://github.com/stephania07/JavaScript-Koans
 
 ---

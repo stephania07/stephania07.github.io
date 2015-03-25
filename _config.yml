@@ -1,10 +1,10 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: "http://stephania07.github.io/" # the base hostname & protocol for your site
+baseurl: "" 
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Stephania Iyob
+email: stephaniaiyob@yahoo.com
+description: "When you want something all the universe conspires in helping you to achieve it. Paulo Coelho"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -14,51 +14,23 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Stephania Iyob
   pic: 1
-  position: Lead Designer
+  position: Full-Stack Developer
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
+      url: EleniyobElen
+    - title: github
+      url: https://github.com/stephania07
+   
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: EleniyobElen
+  # - title: facebook
+  #   url:
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/stephania07
 
 # Postal address (add as many lines as necessary)
 address:
